@@ -1,6 +1,6 @@
 # My Project Portfolio
 
-Welcome! Below are my hardware projects. Click any to see of the prjects including their respective code, schematics, PCB layouts, and photos.
+Welcome! Below are my projects. Click on any of the links below to learn more.
 
 - [Arduino Alarm Clock](Arduino-Alarm-Clock/)  
 - [PIC18f4620 programming board](PIC-Board/)  
