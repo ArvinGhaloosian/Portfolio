@@ -28,3 +28,17 @@ Fully compatible with Mission Planner, QGroundControl, and MAVLink for autonomou
 ## Parts
 
 ![Parts Used](components/Parts.pdf)  
+
+
+## Mission Planner Configuration
+
+I used ArduPilot’s Mission Planner to configure and tune my PX4/Pixhawk autopilot.  
+- Loaded custom `parameters.param` (link below)  
+- Set flight‑controller parameters for stable hover, yaw control, and RTL fail‑safe  
+- Tuned PID loops for roll, pitch, and altitude  
+
+**Download full parameter file:**  
+[Drone/missionplanner/parameters.param](missionplanner/Parameters.param)  
+
+
+
