@@ -20,6 +20,7 @@ Browse the Arduino sketch: [code/AlarmClock.ino](code/Date_Mate_code.ino)
 
 Download: 
 - [PDF export](schematic/Schematic.pdf)
+![Schematic Layout](schematic/Schematic.png)
 
 ## PCB Layout
 
