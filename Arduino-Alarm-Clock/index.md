@@ -2,11 +2,6 @@
 Title: "Arduino Alarm Clock"
 ---
 
-## User Manual
-
- Download:
-- [User Manual.pdf](UserManual/Arduino_Alarm_Clock_UM.pdf)
-
 # Arduino Alarm Clock
 
 A full-featured alarm clock built with:
@@ -16,6 +11,11 @@ A full-featured alarm clock built with:
 - Snooze and multiple alarms  
 - Custom melodies (Buzzer, Star Wars, Harry Potter, Pink Panther) 
 - Multiple color choices for time and date
+
+## User Manual
+
+ Download:
+- [User Manual.pdf](UserManual/Arduino_Alarm_Clock_UM.pdf)
 
 ## Code
 
