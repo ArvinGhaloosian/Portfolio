@@ -1,5 +1,5 @@
 ---
-title: "Arduino Alarm Clock"
+Title: "Arduino Alarm Clock"
 ---
 
 # Arduino Alarm Clock
@@ -9,27 +9,23 @@ A full-featured alarm clock built with:
 - RTC module (DS3231)  
 - EEPROM-backed settings  
 - Snooze and multiple alarms  
-- Custom melodies  
+- Custom melodies (Buzzer, Star Wars, Harry Potter, Pink Panther) 
 - Multiple color choices for time and date
 
 ## Code
 
-Browse the Arduino sketch: [code/AlarmClock.ino](code/AlarmClock.ino)
+Browse the Arduino sketch: [code/AlarmClock.ino](code/Date_Mate_code.ino)
 
 ## Schematic
 
-![Schematic Overview](schematic/schematic.png)
-
-Download:
-- [Eagle schematic file](schematic/AlarmClock.sch)  
-- [PDF export](schematic/AlarmClock.pdf)
+Download: 
+- [PDF export](schematic/Schematic.pdf)
 
 ## PCB Layout
 
-![PCB Layout](pcb/board.png)
+![PCB Layout](pcb/PCB.png)
+![PCB Layout](pcb/PCB1.png)
 
-Download:
-- [KiCad PCB file](pcb/AlarmClock.kicad_pcb)
 
 ## Photos
 
