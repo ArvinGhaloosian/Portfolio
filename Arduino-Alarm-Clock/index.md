@@ -5,7 +5,7 @@ Title: "Arduino Alarm Clock"
 ## User Manual
 
  Download:
-- [PDF export](UserManual/Arduino_Alarm_Clock_UM.pdf)
+- [User Manual.pdf](UserManual/Arduino_Alarm_Clock_UM.pdf)
 
 # Arduino Alarm Clock
 
