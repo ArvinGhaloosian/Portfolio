@@ -16,7 +16,7 @@ A full-featured alarm clock built with:
 
 Browse the Arduino sketch: [code/AlarmClock.ino](code/Date_Mate_code.ino)
 
-'''cpp
+```cpp
 #include <Wire.h>
 #include <RTClib.h>
 #include <Adafruit_GFX.h>
@@ -1006,7 +1006,7 @@ void loop() {
     }
   }
 }
-'''
+```
 
 ## Schematic
 
