@@ -24,6 +24,9 @@ Download:
 
 ## PCB Layout
 
+- [PNG export](pcb/PCB.png)
+- [PNG export](pcb/PCB.png)
+
 ![PCB Layout](pcb/PCB.png)
 ![PCB Layout](pcb/PCB1.png)
 
