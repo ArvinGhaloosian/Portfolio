@@ -27,7 +27,7 @@ Fully compatible with Mission Planner, QGroundControl, and MAVLink for autonomou
 
 ## Parts
 
-![Parts Used](components/Parts.pdf)  
+- [Parts Used](components/Parts.pdf)  
 
 
 ## Mission Planner Configuration
