@@ -15,7 +15,7 @@ A full-featured alarm clock built with:
 ## User Manual
 
  Download:
-- [User Manual.pdf](UserManual/Arduino_Alarm_Clock_UM.pdf)
+- [UserManual.pdf](UserManual/Arduino_Alarm_Clock_UM.pdf)
 
 ## Code
 
