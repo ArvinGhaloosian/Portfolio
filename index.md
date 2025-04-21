@@ -7,4 +7,3 @@ Welcome! Below are my projects. Click on any of the links below to learn more.
 - [Arduino MP3 Player Using SD memory](MP3/)
 - [RC Drone (PIXHAWK)](Drone/)
 - [IgnisX Firefighting Drone (In Progress)](IgnisX‑Drone/)
- 
