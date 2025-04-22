@@ -40,5 +40,9 @@ I used ArduPilot’s Mission Planner to configure and tune my PX4/Pixhawk autop
 **Download full parameter file:**  
 [Drone/missionplanner/parameters.param](missionplanner/Parameters.param)  
 
+## Photos
 
-
+![Front view](images/Drone1.jpg)  
+![Front view](images/Drone2.jpg) 
+![Front view](images/Drone3.jpg) 
+![Front view](images/Drone4.jpg) 
