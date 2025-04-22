@@ -24,6 +24,7 @@ Safety Features: Emergency landing procedure and
 
 Ground Station: Display video, thermal (if possible), GPS,
 telemetry data, and fire alert.​
+
 Smoke Detection: Detect simulated smoke (10-20m).​
 
 Thermal Imaging: Display live thermal feed, detect heat
