@@ -24,5 +24,4 @@ A simple audio‑playback interface built around the DFPlayer Mini TF‑Module:
 
 ## Photos
 
-![Front view](images/PIC_front.jpg)  
-![Back view](images/PIC_back.jpg)
+![Front view](images/MP3PCB.png)  

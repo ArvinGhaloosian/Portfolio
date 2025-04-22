@@ -41,5 +41,5 @@ Download:
 
 ## Photos
 
-![Front view](images/clock_front.jpg)  
-![Back view](images/clock_back.jpg)
+![Front view](images/AlarmPCB.png)  
+![Back view](images/AlarmPCB2.png)

@@ -31,5 +31,5 @@ Download:
 
 ## Photos
 
-![Front view](images/PIC_front.jpg)  
-![Back view](images/PIC_back.jpg)
+![Front view](images/PICPCB.png)  
+![Back view](images/PICPCB2.png)
