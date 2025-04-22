@@ -48,9 +48,8 @@ telemetry data, and fire alert.​
 
 ## Schematic
 
-Download: 
-- [PDF export](schematic/Schematic.pdf)
-![Schematic Layout](schematic/Schematic.png)
+![Front view](images/Schem.png)  
+![Back view](images/Schem1.png)
 
 ## Components
 
@@ -60,7 +59,6 @@ Download:
 
 ## Photos
 
-![Front view](images/Schem.png)  
-![Back view](images/Schem1.png)
+Comming Soon
 
 
