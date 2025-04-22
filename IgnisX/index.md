@@ -1,5 +1,5 @@
 ---
-Title: "IgnisX-Drone"
+Title: "IgnisX"
 ---
 
 # Autonomous AI Firefighting Drone
