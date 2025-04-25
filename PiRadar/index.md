@@ -9,6 +9,11 @@ Uses a Raspberry Pi 5, SG90 servo, and HC-SR04 ultrasonic sensor to sweep from 3
 - Blips for objects under 120 cm
 - Optimized for HDMI display
 
+## Pinout
+
+![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/images/Schem.png)
+
+
 ## 📡 PiRadar
 
 Real-time radar sweep visualization using Python and a Raspberry Pi.
