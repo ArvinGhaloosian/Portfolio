@@ -20,14 +20,14 @@ Please refer to the `requirements.txt` file in the [code folder](https://github.
 
 ## Pinout
 
-![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/images/Schem.png)
+![PiRadar Demo](images/Schem.png)
 
 
 ## PiRadar
 
 Real-time radar sweep visualization using Python and a Raspberry Pi.
 
-![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/assets/PiRadar.GIF)
+![PiRadar Demo](assets/PiRadar.GIF)
 
 ### 📥 Download a Servo Mount 3D Print File
 
