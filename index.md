@@ -7,6 +7,6 @@ Welcome! Below are my projects. Click on any of the links below to learn more.
 - [Arduino MP3 Player Using SD memory](MP3/)
 - [RC Drone (PIXHAWK)](Drone/)
 - [IgnisX Firefighting Drone (In Progress)](https://ArvinGhaloosian.github.io/Portfolio/IgnisX/)
-- [PiRadar](https://github.com/ArvinGhaloosian/Portfolio/tree/main/PiRadar/)
+- [PiRadar](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/index.md)
 
  
