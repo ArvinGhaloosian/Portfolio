@@ -20,9 +20,6 @@ You can view or download the full PiRadar code here:
 Please refer to the `requirements.txt` file in the [code folder](https://github.com/ArvinGhaloosian/Portfolio/tree/main/PiRadar/code).
 
 
-[📄 radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
-
-
 ## Pinout
 
 ![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/images/Schem.png)
