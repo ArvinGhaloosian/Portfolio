@@ -29,3 +29,9 @@ Real-time radar sweep visualization using Python and a Raspberry Pi.
 
 ![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/assets/PiRadar.GIF)
 
+### 📥 Download the Servo Mount
+
+You can view or download the full PiRadar code here:  
+[📄 servomount](https://www.thingiverse.com/thing:3451689/files)
+
+![Servo Mount]()
