@@ -12,7 +12,7 @@ Uses a Raspberry Pi 5, SG90 servo, and HC-SR04 ultrasonic sensor to sweep from 3
 ### 📥 Download the Code
 
 You can view or download the full PiRadar code here:  
-[📄 radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
+[radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
 
 > ⚠️ **Note:** There are some requirements you need to install beforehand.  
 Please refer to the `requirements.txt` file in the [code folder](https://github.com/ArvinGhaloosian/Portfolio/tree/main/PiRadar/code).
@@ -23,7 +23,7 @@ Please refer to the `requirements.txt` file in the [code folder](https://github.
 ![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/images/Schem.png)
 
 
-## 📡 PiRadar
+## PiRadar
 
 Real-time radar sweep visualization using Python and a Raspberry Pi.
 
@@ -32,6 +32,6 @@ Real-time radar sweep visualization using Python and a Raspberry Pi.
 ### 📥 Download a Servo Mount 3D Print File
 
 You can view or download the full PiRadar code here:  
-[📄 servomount](https://www.thingiverse.com/thing:3451689/files)
+[servomount](https://www.thingiverse.com/thing:3451689/files)
 
 ![Servo Mount](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/ServoMount/ServoMount.jpg)
