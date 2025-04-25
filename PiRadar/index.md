@@ -11,7 +11,14 @@ Uses a Raspberry Pi 5, SG90 servo, and HC-SR04 ultrasonic sensor to sweep from 3
 
 ### 📥 Download the Code
 
-You can view or download the full PiRadar code here:
+### 📥 Download the Code
+
+You can view or download the full PiRadar code here:  
+[📄 radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
+
+> ⚠️ **Note:** There are some requirements you need to install beforehand.  
+Please refer to the `requirements.txt` file in the [code folder](https://github.com/ArvinGhaloosian/Portfolio/tree/main/PiRadar/code).
+
 
 [📄 radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
 
