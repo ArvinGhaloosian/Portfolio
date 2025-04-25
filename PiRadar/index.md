@@ -24,7 +24,7 @@ You can view or download the full PiRadar code here:
 [radar_display.py](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/code/radar_display.py)
 
 > ⚠️ **Note:** There are some requirements you need to install beforehand.  
-Please refer to the `requirements.txt` file in the [code folder](https://github.com/ArvinGhaloosian/Portfolio/tree/main/PiRadar/code).
+Please refer to the `requirements.txt` file [Requirements](images/requirements.txt).
 
 
 ## Pinout
