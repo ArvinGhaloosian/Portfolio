@@ -27,7 +27,7 @@ Please refer to the `requirements.txt` file in the [code folder](https://github.
 
 Real-time radar sweep visualization using Python and a Raspberry Pi.
 
-![PiRadar Demo](https://raw.github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/assets/PiRadar.GIF)
+![PiRadar Demo](https://github.com/ArvinGhaloosian/Portfolio/blob/main/PiRadar/assets/PiRadar.GIF)
 
 ### 📥 Download a Servo Mount 3D Print File
 
