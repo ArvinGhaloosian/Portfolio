@@ -51,4 +51,4 @@ I used ArduPilot’s Mission Planner to configure and tune my PX4/Pixhawk autop
 
 Footage of drone taking off and flying.
 
-![Drone Demo](images/DRONE.GIF)
+![Drone Demo](assests/DRONE.GIF)
