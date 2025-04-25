@@ -31,7 +31,7 @@ Real-time radar sweep visualization using Python and a Raspberry Pi.
 
 ### 📥 Download a Servo Mount 3D Print File
 
-You can view or download the full PiRadar code here:  
+You can view or download the servo mount file here:  
 [servomount](https://www.thingiverse.com/thing:3451689/files)
 
 ![Servo Mount](ServoMount/ServoMount.jpg)
