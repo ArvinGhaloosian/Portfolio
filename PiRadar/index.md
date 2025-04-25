@@ -26,6 +26,10 @@ You can view or download the full PiRadar code here:
 > ⚠️ **Note:** There are some requirements you need to install beforehand.  
 Please refer to the `requirements.txt` file [Requirements](code/requirements.txt).
 
+### 🧪 Development Environment
+
+This project was developed using a **Python virtual environment** (`venv`) to avoid system conflicts and ensure smooth library support:
+
 
 ## Pinout
 
